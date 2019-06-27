@@ -1,0 +1,27 @@
+<h1>Your deposits:</h1>
+<h2>These are the sources of income you have every month</h2>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Amount Per Month</th>
+  </tr>
+
+  <% @deposits.each do |deposit| %>
+    <tr>
+      <td><%= deposit.title %></td>
+      <td><%= deposit.amount_per_month %></td>
+      <td><%= link_to 'Show', deposit_path(deposit),
+              method: :get %></td>
+      <td><%= link_to 'Edit', edit_deposit_path(deposit) %></td>
+      <td><%= link_to 'Destroy', deposit_path(deposit),
+              method: :delete,
+              data: { confirm: 'Are you sure?' } %></td>
+    <tr>
+  <% end %>
+</table>
+
+<br>
+<%= link_to 'New recurring deposit', new_deposit_path %>
+<br><br>
+<%= link_to 'Back to Home', controller: 'welcome' %>

@@ -1,0 +1,12 @@
+<p>
+  <strong>Title:</strong>
+  <%= @payment.title %>
+</p>
+ 
+<p>
+  <strong>Amount Per Month:</strong>
+  <%= @payment.amount_per_month %>
+</p>
+
+<%= link_to 'Edit', edit_payment_path(@payment) %><br><br>
+<%= link_to 'Back', payments_path %>

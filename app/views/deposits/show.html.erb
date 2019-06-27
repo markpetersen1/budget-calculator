@@ -1,0 +1,12 @@
+<p>
+  <strong>Title:</strong>
+  <%= @deposit.title %>
+</p>
+ 
+<p>
+  <strong>Amount Per Month:</strong>
+  <%= @deposit.amount_per_month %>
+</p>
+
+<%= link_to 'Edit', edit_deposit_path(@deposit) %><br><br>
+<%= link_to 'Back', deposits_path %>
