@@ -1,6 +1,6 @@
 GEM
   remote: https://rubygems.org/
-  remote: http://localhost:32774/Contrast/api/repo/rvm/
+  remote: https://alpha.contrastsecurity.com/Contrast/api/repo/rvm/
   specs:
     actioncable (5.2.3)
       actionpack (= 5.2.3)
@@ -86,7 +86,7 @@ GEM
       execjs
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.5)
-    contrast-agent (2.5.2)
+    contrast-agent (2.6.0)
       google-protobuf (~> 3.7.0)
       rack (>= 1.0, < 3.0)
     crass (1.0.4)

@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-source 'http://localhost:32774/Contrast/api/repo/rvm'
+source 'https://alpha.contrastsecurity.com/Contrast/api/repo/rvm'
 
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
