@@ -1,0 +1,21 @@
+# Logfile created on 2019-06-28 15:58:14 -0400 by logger.rb/66358
+2019-06-28 15:58:14,668 [Contrast Agent] ERROR - NoMethodError: Unable to build a finding for session-timeout: undefined method `[]' for nil:NilClass
+2019-06-28 15:58:14,668 [Contrast Agent] ERROR - NoMethodError: Unable to build a finding for session-timeout: undefined method `[]' for nil:NilClass
+2019-06-28 15:58:14,672 [Contrast Agent] INFO - AGENT_VERSION=2.5.2
+2019-06-28 15:58:14,672 [Contrast Agent] INFO - HOME=/Users/markp
+2019-06-28 15:58:14,672 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-06-28 15:58:14,672 [Contrast Agent] INFO - RACK ENV=
+2019-06-28 15:58:14,672 [Contrast Agent] INFO - RAILS ENV=development
+2019-06-28 15:58:14,672 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-06-28 15:58:14,672 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-06-28 15:58:14,672 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-06-28 15:58:14,679 [Contrast Agent] ERROR - Errno::ECONNREFUSED: Unable to communicate via tcp. Message not sent.: Connection refused - connect(2) for "127.0.0.1" port 30555
+2019-06-28 15:58:14,752 [Contrast Agent] INFO - Attempt service restart: current=1 total=1
+2019-06-28 15:58:19,351 [Contrast Agent] WARN - An attempt was made to weave into CGI::Util#escapeHTML, but it is overridden using prepend. Ancestors: [CGI::Escape, CGI::Util].
+2019-06-28 15:58:19,351 [Contrast Agent] WARN - An attempt was made to weave into CGI::Util#unescapeHTML, but it is overridden using prepend. Ancestors: [CGI::Escape, CGI::Util].
+2019-06-28 15:58:19,351 [Contrast Agent] WARN - An attempt was made to weave into CGI::Util#escape, but it is overridden using prepend. Ancestors: [CGI::Escape, CGI::Util].
+2019-06-28 15:58:19,351 [Contrast Agent] WARN - An attempt was made to weave into CGI::Util#unescape, but it is overridden using prepend. Ancestors: [CGI::Escape, CGI::Util].
+2019-06-28 15:58:29,137 [Contrast Agent] ERROR - Unable to perform unbound eval of new content for Annotation.
+2019-06-28 15:58:30,606 [Contrast Agent] WARN - An attempt was made to weave into Marshal#load, but it is overridden using prepend. Ancestors: [Marshal].
+2019-06-28 15:58:34,294 [Contrast Agent] ERROR - TypeError: unable to instrument: rails_extensions/assess/postgresql: PG is not a class (Module)
+2019-06-28 15:58:34,334 [Contrast Agent] WARN - The configuration property response_frequency was called on the configuration Contrast::Config::SamplingConfiguration
