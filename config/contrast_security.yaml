@@ -1,0 +1,12 @@
+api: 
+  url: http://localhost:32774/Contrast
+  api_key: demo
+  service_key: JBM26QTQOT0WGZ97
+  user_name: agent_c7a23813-5d18-4e18-8a99-ee26152b9e49@ContrastSecurity
+agent: 
+  service: 
+    logger: 
+      path: contrast_service.log
+      level: ERROR
+    host: 127.0.0.1
+    port: 30555
