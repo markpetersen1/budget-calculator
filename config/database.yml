@@ -13,5 +13,6 @@ test:
 production:
   adapter: postgresql
   database: my_database_development
+  secret_key_base: rails credentials:edit
   pool: 5
   timeout: 5000
