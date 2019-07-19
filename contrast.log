@@ -367,3 +367,120 @@
 2019-07-15 13:56:30,053 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
 2019-07-15 13:56:30,053 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
 2019-07-15 13:56:30,270 [Contrast Agent] WARN - Invalid settings received - Protect and Assess were both on. Disabling Assess.
+2019-07-16 11:36:26,598 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-16 11:36:26,599 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-16 11:36:26,599 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-16 11:36:26,599 [Contrast Agent] INFO - RACK ENV=
+2019-07-16 11:36:26,599 [Contrast Agent] INFO - RAILS ENV=development
+2019-07-16 11:36:26,599 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-16 11:36:26,599 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-16 11:36:26,599 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-16 11:36:27,164 [Contrast Agent] WARN - Invalid settings received - Protect and Assess were both on. Disabling Assess.
+2019-07-16 11:37:31,208 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-16 11:37:31,208 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-16 11:37:31,208 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-16 11:37:31,208 [Contrast Agent] INFO - RACK ENV=
+2019-07-16 11:37:31,208 [Contrast Agent] INFO - RAILS ENV=
+2019-07-16 11:37:31,208 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-16 11:37:31,208 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-16 11:37:31,208 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-16 11:37:31,210 [Contrast Agent] WARN - Detected startup within the rake task true - Disabling Contrast for that process
+2019-07-16 11:37:41,169 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-16 11:37:41,170 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-16 11:37:41,170 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-16 11:37:41,170 [Contrast Agent] INFO - RACK ENV=
+2019-07-16 11:37:41,170 [Contrast Agent] INFO - RAILS ENV=
+2019-07-16 11:37:41,170 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-16 11:37:41,170 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-16 11:37:41,170 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-16 11:37:41,171 [Contrast Agent] WARN - Detected startup within the rake task true - Disabling Contrast for that process
+2019-07-16 11:37:45,933 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-16 11:37:45,933 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-16 11:37:45,933 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-16 11:37:45,933 [Contrast Agent] INFO - RACK ENV=
+2019-07-16 11:37:45,933 [Contrast Agent] INFO - RAILS ENV=
+2019-07-16 11:37:45,933 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-16 11:37:45,933 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-16 11:37:45,933 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-16 11:37:45,934 [Contrast Agent] WARN - Detected startup within the rake task true - Disabling Contrast for that process
+2019-07-16 11:37:52,152 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-16 11:37:52,153 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-16 11:37:52,153 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-16 11:37:52,153 [Contrast Agent] INFO - RACK ENV=
+2019-07-16 11:37:52,153 [Contrast Agent] INFO - RAILS ENV=development
+2019-07-16 11:37:52,153 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-16 11:37:52,153 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-16 11:37:52,153 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-16 11:37:52,437 [Contrast Agent] WARN - Invalid settings received - Protect and Assess were both on. Disabling Assess.
+2019-07-16 11:39:02,081 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-16 11:39:02,081 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-16 11:39:02,081 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker/db
+2019-07-16 11:39:02,081 [Contrast Agent] INFO - RACK ENV=
+2019-07-16 11:39:02,081 [Contrast Agent] INFO - RAILS ENV=development
+2019-07-16 11:39:02,081 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-16 11:39:02,081 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-16 11:39:02,081 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-16 11:39:02,407 [Contrast Agent] WARN - Invalid settings received - Protect and Assess were both on. Disabling Assess.
+2019-07-16 15:55:29,647 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-16 15:55:29,647 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-16 15:55:29,647 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker/db
+2019-07-16 15:55:29,647 [Contrast Agent] INFO - RACK ENV=
+2019-07-16 15:55:29,647 [Contrast Agent] INFO - RAILS ENV=development
+2019-07-16 15:55:29,647 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-16 15:55:29,647 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-16 15:55:29,647 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-16 15:55:29,897 [Contrast Agent] WARN - Invalid settings received - Protect and Assess were both on. Disabling Assess.
+2019-07-17 13:37:56,622 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-17 13:37:56,623 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-17 13:37:56,623 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-17 13:37:56,623 [Contrast Agent] INFO - RACK ENV=
+2019-07-17 13:37:56,623 [Contrast Agent] INFO - RAILS ENV=development
+2019-07-17 13:37:56,623 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-17 13:37:56,623 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-17 13:37:56,623 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-17 13:37:57,103 [Contrast Agent] WARN - Invalid settings received - Protect and Assess were both on. Disabling Assess.
+2019-07-17 14:30:27,290 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-17 14:30:27,290 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-17 14:30:27,290 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-17 14:30:27,290 [Contrast Agent] INFO - RACK ENV=
+2019-07-17 14:30:27,290 [Contrast Agent] INFO - RAILS ENV=development
+2019-07-17 14:30:27,290 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-17 14:30:27,290 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-17 14:30:27,290 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-17 14:30:27,743 [Contrast Agent] WARN - Invalid settings received - Protect and Assess were both on. Disabling Assess.
+2019-07-18 14:56:01,665 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-18 14:56:01,665 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-18 14:56:01,665 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-18 14:56:01,665 [Contrast Agent] INFO - RACK ENV=
+2019-07-18 14:56:01,666 [Contrast Agent] INFO - RAILS ENV=development
+2019-07-18 14:56:01,666 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-18 14:56:01,666 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-18 14:56:01,666 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-18 14:56:02,419 [Contrast Agent] WARN - Invalid settings received - Protect and Assess were both on. Disabling Assess.
+2019-07-18 15:34:03,940 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-18 15:34:03,940 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-18 15:34:03,940 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-18 15:34:03,940 [Contrast Agent] INFO - RACK ENV=
+2019-07-18 15:34:03,940 [Contrast Agent] INFO - RAILS ENV=
+2019-07-18 15:34:03,940 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-18 15:34:03,940 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-18 15:34:03,940 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-18 15:34:03,942 [Contrast Agent] WARN - Detected startup within the rake task true - Disabling Contrast for that process
+2019-07-18 15:34:46,350 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-18 15:34:46,350 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-18 15:34:46,350 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-18 15:34:46,350 [Contrast Agent] INFO - RACK ENV=
+2019-07-18 15:34:46,350 [Contrast Agent] INFO - RAILS ENV=development
+2019-07-18 15:34:46,350 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-18 15:34:46,350 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-18 15:34:46,350 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-18 15:34:46,793 [Contrast Agent] WARN - Invalid settings received - Protect and Assess were both on. Disabling Assess.
+2019-07-18 15:36:10,536 [Contrast Agent] INFO - AGENT_VERSION=2.6.0
+2019-07-18 15:36:10,536 [Contrast Agent] INFO - HOME=/Users/markp
+2019-07-18 15:36:10,536 [Contrast Agent] INFO - PWD=/Users/markp/budget_tracker
+2019-07-18 15:36:10,536 [Contrast Agent] INFO - RACK ENV=
+2019-07-18 15:36:10,536 [Contrast Agent] INFO - RAILS ENV=
+2019-07-18 15:36:10,536 [Contrast Agent] INFO - RUBY VERSION=ruby-2.6.3
+2019-07-18 15:36:10,536 [Contrast Agent] INFO - GEM HOME=/Users/markp/.rvm/gems/ruby-2.6.3
+2019-07-18 15:36:10,536 [Contrast Agent] INFO - GEM PATH=/Users/markp/.rvm/gems/ruby-2.6.3:/Users/markp/.rvm/gems/ruby-2.6.3@global
+2019-07-18 15:36:10,538 [Contrast Agent] WARN - Detected startup within the rake task true - Disabling Contrast for that process

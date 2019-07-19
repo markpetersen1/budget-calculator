@@ -52,3 +52,18 @@ Jul 15 2019 13:54:07.888 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2
 Jul 15 2019 13:56:12.501 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
 Jul 15 2019 13:56:25.342 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
 Jul 15 2019 13:56:29.907 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 16 2019 11:36:26.388 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 16 2019 11:37:31.021 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 16 2019 11:37:41.018 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 16 2019 11:37:45.776 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 16 2019 11:37:51.996 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 16 2019 11:39:01.941 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 16 2019 15:55:29.340 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 17 2019 13:37:56.343 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 17 2019 14:30:27.137 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 17 2019 15:22:54.253 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|SECURITY|The PARAMETER_VALUE amount_per_month had a value that matched a signature for, but did not successfully exploit, sql-injection - 1; DROP TABLE payments;.|WARN|pri=sql-injection thread=70324147837040 app=Unknown src=::1 spt=3000 request=http://localhost:3000/payments/{n} requestMethod=POST outcome=PROBED
+Jul 17 2019 15:24:10.302 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|SECURITY|The PARAMETER_VALUE title had a value that matched a signature for, but did not successfully exploit, sql-injection - Electric; DROP TABLE payments.|WARN|pri=sql-injection thread=70324147837040 app=Unknown src=::1 spt=3000 request=http://localhost:3000/payments/{n} requestMethod=POST outcome=PROBED
+Jul 18 2019 14:56:01.403 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 18 2019 15:34:03.756 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 18 2019 15:34:46.209 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
+Jul 18 2019 15:36:10.372 localhost CEF:0|Contrast Security|Contrast Ruby Agent|2.6.0|INIT|Agent Security Logger Initialized|Low|
