@@ -12,9 +12,6 @@
 
 ActiveRecord::Schema.define(version: 2019_06_27_163911) do
 
-  # These are extensions that must be enabled in order to support this database
-  enable_extension "plpgsql"
-
   create_table "deposits", force: :cascade do |t|
     t.string "title"
     t.decimal "amount_per_month"

@@ -12,6 +12,6 @@ test:
 
 production:
   adapter: postgresql
-  databse: my_database_development
+  database: my_database_development
   pool: 5
   timeout: 5000

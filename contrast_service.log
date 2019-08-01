@@ -1,9 +1,9 @@
-2019-06-28 16:22:48,487 INFO - (main.go:23) Startup: Contrast-Service: 1.4.0 BUILD: 2019-04-24_18:54:26_UTC
-2019-06-28 16:22:48,487 INFO - (main.go:27) Startup: working dir: /Users/markp/budget_tracker
-2019-06-28 16:22:48,487 DEBUG - (update_config_from_file.go:9) Command: UpdateConfigFromFile
-2019-06-28 16:22:48,487 DEBUG - (config.go:934) Config: loading file: config/contrast_security.yaml
-2019-06-28 16:22:48,487 DEBUG - (update_config_from_env.go:9) Command: UpdateConfigFromENV
-2019-06-28 16:22:48,487 DEBUG - (update_config_from_cli.go:10) Command: UpdateConfigFromCli
-2019-06-28 16:22:48,487 DEBUG - (build_service_logger.go:13) Command: BuildServiceLogger
-2019-06-28 16:22:48,487 INFO - (build_service_logger.go:16) Current service log level: ERROR
-2019-06-28 16:22:48,487 DEBUG - (build_service_logger.go:24) Setting log level: level=ERROR
+2019-07-01 14:49:46,921 INFO - (main.go:23) Startup: Contrast-Service: 1.5.0 BUILD: 2019-06-20_14:43:57_UTC
+2019-07-01 14:49:46,922 INFO - (main.go:27) Startup: working dir: /Users/markp/budget_tracker
+2019-07-01 14:49:46,922 DEBUG - (update_config_from_file.go:9) Command: UpdateConfigFromFile
+2019-07-01 14:49:46,922 DEBUG - (config.go:958) Config: loading file: config/contrast_security.yaml
+2019-07-01 14:49:46,922 DEBUG - (update_config_from_env.go:9) Command: UpdateConfigFromENV
+2019-07-01 14:49:46,922 DEBUG - (update_config_from_cli.go:10) Command: UpdateConfigFromCli
+2019-07-01 14:49:46,922 DEBUG - (build_service_logger.go:13) Command: BuildServiceLogger
+2019-07-01 14:49:46,922 INFO - (build_service_logger.go:16) Current service log level: ERROR
+2019-07-01 14:49:46,922 DEBUG - (build_service_logger.go:24) Setting log level: level=ERROR
