@@ -34,3 +34,7 @@ security.log
 config/database.yml
 
 my_database_development
+
+# Ignore Contrast stuff
+*contrast*
+*Contrast
