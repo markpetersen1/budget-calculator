@@ -33,7 +33,7 @@ security.log
 /config/master.key
 config/database.yml
 
-my_database_development
+my_database_*
 
 # Ignore Contrast stuff
 *contrast*

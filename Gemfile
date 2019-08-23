@@ -11,8 +11,12 @@ gem 'rails', '~> 5.2.3'
 gem 'sqlite3'
 #...Actually using Postgres in order to connect with Heroku
 #gem 'pg'
+
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+#gem 'puma', '~> 3.11'
+# Use Passenger as the app server
+gem "passenger"
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
