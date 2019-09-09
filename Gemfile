@@ -70,10 +70,6 @@ group :test do
   #gem 'sqlite3'
 end
 
-group :contrast, :development, :testing, :production do
-  gem 'contrast-agent'
-end
-
 group :production do
   #gem 'pg'
 end
