@@ -1,6 +1,5 @@
 GEM
   remote: https://rubygems.org/
-  remote: https://alpha.contrastsecurity.com/Contrast/api/repo/rvm/
   specs:
     actioncable (6.0.0)
       actionpack (= 6.0.0)
